@@ -11,6 +11,7 @@
 		FA71EAD2284A07E70007AAC3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA71EAD1284A07E70007AAC3 /* ContentView.swift */; };
 		FA71EAD4284A07E90007AAC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA71EAD3284A07E90007AAC3 /* Assets.xcassets */; };
 		FA71EAD7284A07E90007AAC3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA71EAD6284A07E90007AAC3 /* Preview Assets.xcassets */; };
+		FA71EADE284A29EE0007AAC3 /* WeatherButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA71EADD284A29EE0007AAC3 /* WeatherButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		FA71EAD1284A07E70007AAC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA71EAD3284A07E90007AAC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA71EAD6284A07E90007AAC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA71EADD284A29EE0007AAC3 /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		FA71EACE284A07E70007AAC3 /* SwiftUI-WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				FA71EADD284A29EE0007AAC3 /* WeatherButton.swift */,
 				FA71EACF284A07E70007AAC3 /* SwiftUI_WeatherAppApp.swift */,
 				FA71EAD1284A07E70007AAC3 /* ContentView.swift */,
 				FA71EAD3284A07E90007AAC3 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				FA71EAD2284A07E70007AAC3 /* ContentView.swift in Sources */,
 				FA71EAD0284A07E70007AAC3 /* SwiftUI_WeatherAppApp.swift in Sources */,
+				FA71EADE284A29EE0007AAC3 /* WeatherButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
